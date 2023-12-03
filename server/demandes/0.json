@@ -1,0 +1,24 @@
+{
+    "client": {
+        "id": 0,
+        "nom": "SMAHI",
+        "prenom": "Abdeldjalil",
+        "numero_tel": "0764177193",
+        "email": "abdeljalil.smahi@outlook.com",
+        "depense": 1000.0,
+        "revenu": 7500.0
+    },
+    "demandes": [
+        {
+            "montant": 686000.0,
+            "duree": 40,
+            "immobilier": {
+                "num_appt": 67,
+                "num_rue": 253,
+                "rue": "Boulevard Pasteur",
+                "code_postal": 68000,
+                "ville": "Colmar"
+            }
+        }
+    ]
+}

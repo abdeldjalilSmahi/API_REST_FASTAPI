@@ -1,0 +1,10 @@
+{
+    "id" : 0,
+    "nom": "Smahi",
+    "prenom": "abdeldjalil",
+    "email": "abdeljalil.smahi@outlook.com",
+    "historique" :[ {
+        "dettes": 7198.83,
+        "anterieurs_de_paiement": 0
+    }]
+}
