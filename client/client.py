@@ -51,7 +51,7 @@ def main():
         f"Client ID: {id_client}, Nom: {nom}, Prénom: {prenom}, Téléphone: {numero_tel}, Email: {email}, Dépense: {depense}, Revenu: {revenu}")
     print(
         f"Demande de prêt de {montant_demande}€ sur {duree_demande} ans pour l'immobilier situé au {num_appt}, {num_rue} {rue}, {code_postal} {ville}.")
-    # Example of submitting a demande
+    # Création du dictionnaire
     demande_data = {
         "client": {
             "id": id_client,
