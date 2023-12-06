@@ -3,7 +3,7 @@ from server.baseModels.client_model import ClientModel
 from server.baseModels.demade_model import DemandeModel
 from server.baseModels.demade_model import ImmobilierModel
 
-BASE_URL = "http://127.0.0.1:8000"  # Replace with the actual URL of your FastAPI server
+BASE_URL = "http://127.0.0.1:8000" 
 
 
 class APIClient:
